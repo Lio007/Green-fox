@@ -1,0 +1,120 @@
+img {
+  height: 300px;
+  width: 400px;
+  
+}
+main {
+  width: 80%;
+  text-align: left;
+  font-family: 'Josefin Sans', sans-serif;
+  display: flexbox;
+  flex-warp: warp;
+  margin: auto;
+}
+
+header {
+  position: absolute;
+  font-size 40px;
+}
+#name {
+  font-size: 60px;
+}
+
+header, .grey{
+  font-family: 'Abril Fatface', cursive;
+}
+
+.grey {
+  font-size: 45px;
+  background: grey;
+  color: white;
+  padding: 40px;
+  width: 105%;
+  position: relative;
+  right: 40px;
+}
+
+
+.title {
+  text-transform: uppercase;
+  font-size:  24px;
+  color: black;
+  padding-bottom: 30px; 
+  padding-top: 60px;
+  
+}
+
+  
+}
+
+.firsttext {
+  font-size: 16px;
+  line-height: 30px;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+.bigger {
+  font-size: 24px;
+  padding-top: 30px;
+}
+
+.text {
+  font-size: 14px;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.italic {
+  font-style: italic;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+.second {
+ line-height: 20px;
+}
+
+.quotation {
+  position: absolute;
+  bottom: 60px;
+  left: 5px;
+  font-size: 120px;
+  
+}
+
+.quotation1 {
+  position: absolute;
+  bottom: 190px;
+  left: 5px;
+  font-size: 120px; }
+.line {
+  width: 100%;
+  border-bottom: 5px solid black;
+  padding-top: 50px;
+}
+
+.flex-container {
+  display: block;
+  position: relative;
+  width: 40%;
+  height: 100px;
+  padding: 10px;
+  
+}
+
+.second-container {
+  display: block;
+  position: relative ;
+  top: -500px;
+  left: 50%;
+  width: 40%;
+}
+
+h1 {
+  display: flex;
+  width: 90%;
+  background: black;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  justify-content: space-evenly;
+}

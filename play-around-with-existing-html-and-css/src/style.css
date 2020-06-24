@@ -1,0 +1,29 @@
+div {
+  display: inline;
+  margin-right: 15px;
+  padding: 10px;
+  border-radius: 15px;
+  border: 10px solid black;
+  background: lime;
+}
+
+.first {
+  border: 10px solid red;
+}
+
+.second {
+  border: 10px solid #000000;
+  background: white;
+}
+
+.fourth {
+  border: 10px solid blue;
+}
+.fifth {
+  border: 10px solid purple;
+    Background: yellow;
+}
+
+body {
+  padding: 15px;
+}
